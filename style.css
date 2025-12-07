@@ -23,3 +23,18 @@ a {
     color: var(--link-color);
     text-decoration: none;
 }
+
+/* NAVBAR */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 59px;
+    height: 80px;
+    align-items: center;
+}
+
+nav.left a{
+    color: var(--text-color);
+    font-size: 22px;
+    font-weight: 600;
+}
