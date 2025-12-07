@@ -38,3 +38,9 @@ nav.left a{
     font-size: 22px;
     font-weight: 600;
 }
+
+nav.right a{
+    color: var(--text-color);
+    margin: 0 10px;
+}
+
