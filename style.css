@@ -33,13 +33,13 @@ nav {
     align-items: center;
 }
 
-nav.left a{
+nav .left a{
     color: var(--text-color);
     font-size: 22px;
     font-weight: 600;
 }
 
-nav.right a{
+nav .right a{
     color: var(--text-color);
     margin: 0 10px;
 }
