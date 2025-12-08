@@ -59,6 +59,17 @@ nav .right a span {
 .hero-section {
     display: flex;
     justify-content: space-between;
+    padding: 0 50px;
+    margin: 50px 0;
+    align-items: center;
+}
+
+.hero-section .text {
+    flex: 5;
+}
+
+.hero-section .headshot {
+    flex: 2;
 }
 
 @media (max-width: 600px) {
