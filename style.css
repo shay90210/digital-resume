@@ -63,6 +63,7 @@ nav .right a span {
     margin: 50px 0;
     align-items: center;
     gap: 40px;
+    margin-bottom: 100px;
 }
 
 .hero-section .text {
@@ -124,5 +125,5 @@ nav .right a:last-child{
 }
 
 nav .right a span {
-    display: none
+    display: none;
 }
