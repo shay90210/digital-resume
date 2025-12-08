@@ -107,6 +107,23 @@ nav .right a span {
     border-radius: 50%;
 }
 
+@media (max-width: 850px) {
+  /* SECTION 1: Hero */
+  .hero-section .text h2 {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 740px) {
+  /* SECTION 1: Hero */
+  .hero-section {
+    flex-direction: column-reverse;
+  }
+
+  .hero-section .headshot img {
+    width: 300px;
+  }
+
 @media (max-width: 600px) {
     /* NAVBAR */
     nav {
