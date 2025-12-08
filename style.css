@@ -163,7 +163,10 @@ nav .right a span {
 }
 
 .contact-section h2 {
-  font-size: 35px;
+    font-size: 35px;
+    font-family: 'Fredericka the Great', serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .contact-section .group {
