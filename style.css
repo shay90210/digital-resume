@@ -62,10 +62,18 @@ nav .right a span {
     padding: 0 50px;
     margin: 50px 0;
     align-items: center;
+    gap: 40px;
 }
 
 .hero-section .text {
     flex: 5;
+}
+
+.hero-section .text h2 {
+    font-size: 45px;
+    font-family: 'Fredericka the Great', serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .hero-section .headshot {
