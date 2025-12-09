@@ -18,7 +18,7 @@ post '/submit' do
     message = params[:message]
 
   Mail.deliver do
-    to "your_email@example.com"
+    to "shannon.bentley@brewcity-innovations.com"
     from email
     subject "New form submission"
     body "Name: #{name}\nEmail: #{email}\n\nMessage:\n#{message}"
