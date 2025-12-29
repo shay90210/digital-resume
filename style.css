@@ -156,7 +156,7 @@ nav .right a span {
     font-size: 18px;
 }
 
-/* SECTION 4: Contact */
+/* SECTION 3: Contact */
 .contact-section {
   padding: 0 50px;
   margin-bottom: 100px;
@@ -219,6 +219,25 @@ nav .right a span {
   }
 }
 
+/* SECTION 4: Projects */
+.projects-section {
+  padding: 0 50px;
+  margin-bottom: 100px;
+}
+
+.projects-section h2 {
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Fredericka the Great', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.projects-section .text {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 @media (max-width: 740px) {
   /* SECTION 1: Hero */
   .hero-section {
@@ -264,3 +283,8 @@ nav .right a span {
   .contact-section {
     padding: 0 20px;
   }
+
+  /* SECTION 4: Projects */
+    .projects-section {
+      padding: 0 20px;
+    }
