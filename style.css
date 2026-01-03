@@ -242,7 +242,8 @@ nav .right a span {
 }
 
 .projects-section .project-image img {
-    width: 600 px;
+    width: 400 px;
+    display:inline-flex;
 }
 
 @media (max-width: 740px) {
