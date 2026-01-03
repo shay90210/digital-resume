@@ -241,9 +241,12 @@ nav .right a span {
   margin-bottom: 20px;
 }
 
-.projects-section .project-image img {
+.projects-section .project-group .project-image img {
     width: 400 px;
-    display:inline-flex;
+}
+
+.projects-section .project-group {
+  display: inline-block;
 }
 
 @media (max-width: 740px) {
