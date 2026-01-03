@@ -245,7 +245,7 @@ nav .right a span {
     width: 400 px;
 }
 
-.projects-section .project-group {
+.projects-section .project-group .project-image {
   display: inline-block;
   justify-content: center;
 }
