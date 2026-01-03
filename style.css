@@ -247,6 +247,7 @@ nav .right a span {
 
 .projects-section .project-group {
   display: inline-block;
+  justify-content: center;
 }
 
 @media (max-width: 740px) {
