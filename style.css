@@ -241,10 +241,6 @@ nav .right a span {
   margin-bottom: 20px;
 }
 
-.projects-section .project-group .project-image img {
-    width: 400 px;
-}
-
 .projects-section .project-group {
     display: flex;
     justify-content: center;
