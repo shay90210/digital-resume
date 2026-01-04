@@ -41,7 +41,7 @@ nav .left a{
 }
 
 nav .right a{
-    color: var(--text-color);
+    color: rgb(110, 6, 62);
     margin: 0 10px;
 }
 
