@@ -257,6 +257,10 @@ nav .right a span {
     margin-top: 40px;
 }
 
+.projects-section .project-group .project-image img {
+  margin-top: 40px;
+}
+
 @media (max-width: 740px) {
   /* SECTION 1: Hero */
   .hero-section {
