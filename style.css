@@ -257,6 +257,10 @@ nav .right a span {
     margin-top: 40px;
 }
 
+.projects-section .project-group .project-image {
+  justify-content: space-between;
+}
+
 .projects-section .project-group .project-image img {
   margin-top: 20px;
   margin-bottom: 40px
