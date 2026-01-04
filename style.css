@@ -258,7 +258,8 @@ nav .right a span {
 }
 
 .projects-section .project-group .project-image img {
-  margin-top: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px
 }
 
 @media (max-width: 740px) {
