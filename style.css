@@ -258,7 +258,7 @@ nav .right a span {
 }
 
 .projects-section .project-group .project-image {
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .projects-section .project-group .project-image img {
