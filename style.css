@@ -2,6 +2,7 @@
     --text-color: #1e1c20;
     --link-color: #4a76ee;
     --background-color: #eeeff1;
+    --secondbackground-color: #f7e1d7;
 }
 
 * {
@@ -16,7 +17,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: var(--background-color);
+    background-color: var(--secondbackground-color);
 }
 
 a {
