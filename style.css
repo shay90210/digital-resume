@@ -35,7 +35,7 @@ nav {
 }
 
 nav .left a{
-    color: var(--text-color);
+    color: rgb(110, 6, 62)
     font-size: 22px;
     font-weight: 600;
 }
