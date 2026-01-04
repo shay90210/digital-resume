@@ -252,6 +252,7 @@ nav .right a span {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    margin-top: 40px;
 }
 
 @media (max-width: 740px) {
